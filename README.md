@@ -1,0 +1,2 @@
+# salma768
+#include&lt;bits/stdc++.h> using namespace std; const long long int mx=100000; int a[mx+5]; void merge(int p,int q,int r…
